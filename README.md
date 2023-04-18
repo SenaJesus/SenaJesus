@@ -11,6 +11,4 @@
   <img align="center" title="SQL" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
 
-<div> 
-    ![Snake Animation]https://github.com/SenaJesus
-</div>
+![snake gif](https://github.com/SenaJesus/SenaJesus/blob/output/github-contribution-grid-snake.svg)
