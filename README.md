@@ -2,7 +2,7 @@
 
 I am a Computer Science student at the University of São Paulo (USP), with a fervent passion for leveraging programming to solve complex problems. My journey into the world of code began in 2018 at Colégio Técnico da Unicamp. This foundational experience set the stage for an exciting career in technology.
 
-By 2020, I had the privilege of joining Procter & Gamble, where I gained hands-on experience in manual process automation, back-end development, and web interface design. I extensively used technologies like JavaScript, Express, and PostgreSQL to drive efficiency and innovation during my tenure.
+By 2020, I had the privilege of joining Procter & Gamble, where I gained hands-on experience in manual process automation, back-end development, and web interface design. I extensively used technologies like Python, Flask, and Pandas to drive efficiency and innovation during my tenure.
 
 Currently, I am a contributing member of the Codelab extension group at USP. Here, I focus primarily on web development, particularly in the back-end, using a stack that includes JavaScript, Express, and PostgreSQL among other technologies.
 
