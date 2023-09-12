@@ -10,7 +10,3 @@
   <img align="center" title="Flutter" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" title="SQL" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
-
-<div> 
-    <img alt="" src="https://github.com/SenaJesus/SenaJesus/blob/output/github-contribution-grid-snake.svg">
-</div>
