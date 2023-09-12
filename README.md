@@ -1,10 +1,10 @@
 ### About me:
 
-I'm a Computer Science student at the University of São Paulo (USP), with a deep-rooted passion for problem-solving through programming.
+I am a Computer Science student at the University of São Paulo (USP), with a fervent passion for leveraging programming to solve complex problems. My journey into the world of code began in 2018 at Colégio Técnico da Unicamp. This foundational experience set the stage for an exciting career in technology.
 
-My programming journey began in 2018 at Colégio Técnico da Unicamp, which laid the groundwork for my burgeoning career. By 2020, I was fortunate enough to join Procter & Gamble, where I honed my skills in automating manual processes, back-end development, and crafting web interfaces—experiences that have shaped my academic and professional pursuits.
+By 2020, I had the privilege of joining Procter & Gamble, where I gained hands-on experience in manual process automation, back-end development, and web interface design. I extensively used technologies like JavaScript, Express, and PostgreSQL to drive efficiency and innovation during my tenure.
 
-At present, I'm actively involved in the Codelab extension group at USP. Here, I specialize in web development with a keen focus on back-end technologies.
+Currently, I am a contributing member of the Codelab extension group at USP. Here, I focus primarily on web development, particularly in the back-end, using a stack that includes JavaScript, Express, and PostgreSQL among other technologies.
 
 ### I've worked with:
 <div style="display: flex; justify-content: space-between;">
