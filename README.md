@@ -1,3 +1,11 @@
+### About me:
+
+I'm a Computer Science student at the University of São Paulo (USP), with a deep-rooted passion for problem-solving through programming.
+
+My programming journey began in 2018 at Colégio Técnico da Unicamp, which laid the groundwork for my burgeoning career. By 2020, I was fortunate enough to join Procter & Gamble, where I honed my skills in automating manual processes, back-end development, and crafting web interfaces—experiences that have shaped my academic and professional pursuits.
+
+At present, I'm actively involved in the Codelab extension group at USP. Here, I specialize in web development with a keen focus on back-end technologies.
+
 ### I've worked with:
 <div style="display: flex; justify-content: space-between;">
   <img align="center" title="Java" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
